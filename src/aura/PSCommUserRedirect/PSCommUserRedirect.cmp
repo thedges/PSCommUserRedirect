@@ -1,0 +1,5 @@
+<aura:component controller="PSCommUserRedirectController" implements="forceCommunity:availableForAllPageTypes" access="global" >
+    <aura:attribute name="destination" type="String" default="Contact" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.redirect}" />
+</aura:component>

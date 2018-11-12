@@ -1,0 +1,3 @@
+<design:component>
+	<design:attribute name="destination" label="Redirect to community user record" datasource="User,Contact,Account" />
+</design:component>
