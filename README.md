@@ -1,6 +1,8 @@
 # PSCommUserRedirect
 Lightning component that allows a community user to redirect to their user, contact, or account records. This component fills a product gap where you cannot easily create community navigation items that take the user to their profile, contact, or account record. 
 
+<img src="PSCommUserRedirect.gif" />
+
 <b>To deploy and use this component:</b>
   1. Deploy the component to your org using "Deploy to Salesforce" button below
   2. In community builder, create a New Page > Standard Page > 1 full-width column
