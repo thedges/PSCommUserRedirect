@@ -1,4 +1,6 @@
 # PSCommUserRedirect
+THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/thedges/Disclaimer/master/disclaimer.txt).
+
 Lightning component that allows a community user to redirect to their user, contact, or account records. This component fills a product gap where you cannot easily create community navigation items that take the user to their profile, contact, or account record. 
 
 <img src="PSCommUserRedirect.gif" />
